@@ -44,4 +44,4 @@
 
 Сравнительный анализ и выводы: `analysis/comparative_analysis.md`
 
-**Ссылка на репозиторий:** 
+**Ссылка на репозиторий:** https://github.com/dimaletov/gpt-mining-research/tree/main
